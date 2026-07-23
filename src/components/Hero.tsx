@@ -139,7 +139,7 @@ export default function Hero() {
               <span className="text-xs text-[var(--secondary)] tracking-wider uppercase mr-2">Find me on</span>
               <div className="h-px w-8 bg-[var(--card-border)]" />
               {[
-                { icon: Globe, href: "https://github.com/niteshverma", label: "GitHub" },
+                { icon: Globe, href: "https://github.com/Nitesh6387", label: "GitHub" },
                 { icon: ExternalLink, href: "https://linkedin.com/in/niteshverma", label: "LinkedIn" },
                 { icon: Mail, href: "mailto:niteshverma8105@gmail.com", label: "Email" },
               ].map((social) => (
